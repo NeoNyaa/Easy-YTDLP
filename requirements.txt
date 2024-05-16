@@ -1,0 +1,8 @@
+yt_dlp
+certifi
+brotli
+websockets
+requests
+curl_cffi
+mutagen
+pycryptodome
